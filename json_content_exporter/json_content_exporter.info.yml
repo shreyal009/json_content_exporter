@@ -1,0 +1,5 @@
+name: JSON Content Exporter
+type: module
+description: Custom Module to export Content nodes as JSON.
+core: 8.x
+package: Content

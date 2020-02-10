@@ -1,0 +1,5 @@
+services:
+  json_content_exporter.route_subscriber:
+    class: Drupal\json_content_exporter\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
